@@ -1,0 +1,14 @@
+Package: simpleos-fonds
+Version: 0.1
+Architecture: all
+Maintainer: Ton Nom <ton.email@example.com>
+Filename: pool/main/simpleos-fonds.deb
+Size: 1858268
+MD5sum: cc74c5363011cf7d74d7dfe6ce9dcff6
+SHA1: be48a35f5b9fa83a79e184b18da95a7dc74a5784
+SHA256: 7113325b503d506d02d430a71e135d64837740db88e8e72d3e90514d2c1c6a2c
+Section: misc
+Priority: optional
+Description: Paquet de fonds d'écran
+ Ce paquet installe des images dans /usr/share/backgrounds
+

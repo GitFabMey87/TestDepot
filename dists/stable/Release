@@ -1,7 +1,8 @@
-Origin: TestDepot
-Label: TestDepot
+Origin: SimpleOS
+Label: SimpleOS Depot
 Suite: stable
 Codename: stable
 Architectures: amd64
 Components: main
-Description: Dépôt APT de test
+Description: Dépôt APT SimpleOS via GitHub Pages
+Date: Mon, 17 Nov 2025 15:03:13 +0000
