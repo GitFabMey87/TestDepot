@@ -1,0 +1,7 @@
+Origin: TestDepot
+Label: TestDepot
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Dépôt APT de test
